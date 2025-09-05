@@ -1,12 +1,30 @@
-# React + Vite
+# philip-simiyu.dev
+A modular, fullstack portfolio built with React, Tailwind CSS, and Django — showcasing scalable solutions for agriculture, sustainability, and real-world impact.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Philip.Dev Portfolio 🚀
 
-Currently, two official plugins are available:
+Welcome to my personal portfolio — a fullstack showcase of the projects, skills, and mission that drive my work in AgriTech and sustainable development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌍 About Me
+I'm Philip Simiyu, a fullstack developer based in Kenya. I specialize in building scalable backend systems, intuitive frontend interfaces, and reproducible pipelines for real-world users — especially in agriculture and sustainability.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Python, Django, Supabase
+- **Tools**: Git, Streamlit, Haystack, WSL
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 📌 Featured Projects
+- [FarmBotika](https://github.com/philip-simiyu/farmbotika) — AI-powered agricultural assistant
+- [Portfolio Site](https://philipdev.vercel.app) — This site!
+
+## 🤝 Support & Contact
+Want to support my work or collaborate?
+
+- 📬 [Email Me](mailto:philip.simiyu.dev@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/philip-simiyu)
+- 🧑‍💻 [GitHub](https://github.com/philglenny24)
+
+---
+
+Built with ❤️ and purpose. Let’s build tech that matters.
